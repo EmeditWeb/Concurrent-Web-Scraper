@@ -75,7 +75,7 @@ scraperproject/
 ├── results.json     # Output — structured JSON with all scraped metadata
 ├── summary.txt      # Output — human-readable summary report
 ├── scraper.log      # Log file — records session activity, successes, and failures
-└── README.md        # This file
+└── README.md        # A detailed description of the project
 ```
 
 ---
@@ -240,4 +240,4 @@ This project is open source. Feel free to use, modify, and distribute.
 
 ## 👤 Author
 
-**Emmanuel Itighise** — [https://www.github.com/EmeditWeb](https://www.github.com/EmeditWeb)
+**[Emmanuel Itighise](https://www.github.com/EmeditWeb)**
