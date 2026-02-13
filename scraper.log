@@ -1,0 +1,43 @@
+2026/02/13 14:01:39 Scraper started
+2026/02/13 14:01:40 Processed result for https://google.com
+%!(EXTRA string=Google)
+2026/02/13 14:01:40 Processed result for https://github.com
+%!(EXTRA string=GitHub · Change is constant. GitHub keeps you ahead. · GitHub)
+2026/02/13 14:01:42 Processed result for https://golang.org
+%!(EXTRA string=The Go Programming Language)
+2026/02/13 14:01:45 Failure: https://stackoverflow.com was unreachable after 3 attempts
+2026/02/13 14:01:45 Results saved to results.json and summary.txt
+2026/02/13 14:01:45 Session ended
+2026/02/13 14:25:57 Scraper started
+2026/02/13 14:25:58 Processed result for https://learn2earn.ng
+%!(EXTRA string=Become an AI-NativeFull-Stack Developer)
+2026/02/13 14:25:58 Processed result for https://google.com
+%!(EXTRA string=)
+2026/02/13 14:25:58 Processed result for https://github.com
+%!(EXTRA string=Search code, repositories, users, issues, pull requests...)
+2026/02/13 14:26:03 Failure: https://chatengine.io was unreachable after 3 attempts
+2026/02/13 14:26:03 Processed result for https://golang.org
+%!(EXTRA string=Build simple, secure, scalable systems with Go)
+2026/02/13 14:26:11 Failure: https://stackoverflow.com was unreachable after 3 attempts
+2026/02/13 14:26:11 Results saved to results.json and summary.txt
+2026/02/13 14:26:11 Session ended
+2026/02/13 14:42:25 Scraper started
+2026/02/13 14:42:26 Processed result for[https://google.com] H1: 
+2026/02/13 14:42:26 Processed result for[https://github.com] H1: Search code, repositories, users, issues, pull requests...
+2026/02/13 14:42:27 Processed result for[https://learn2earn.ng] H1: Become an AI-NativeFull-Stack Developer
+2026/02/13 14:42:28 Processed result for[https://golang.org] H1: Build simple, secure, scalable systems with Go
+2026/02/13 14:42:31 Failure: https://chatengine.io was unreachable after 3 attempts
+2026/02/13 14:42:31 Failure: https://stackoverflow.com was unreachable after 3 attempts
+2026/02/13 14:42:31 Results saved to results.json and summary.txt
+2026/02/13 14:42:31 Session ended
+2026/02/13 15:00:55 Scraper started
+2026/02/13 15:00:55 Processed result for [https://learn2earn.ng] | H1: Become an AI-NativeFull-Stack Developer
+2026/02/13 15:00:55 Processed result for [https://google.com] | H1: 
+2026/02/13 15:00:56 Processed result for [https://github.com] | H1: Search code, repositories, users, issues, pull requests...
+2026/02/13 15:00:56 Processed result for [https://www.github.com/EmeditWeb] | H1: Search code, repositories, users, issues, pull requests...
+2026/02/13 15:00:58 Processed result for [https://golang.org] | H1: Build simple, secure, scalable systems with Go
+2026/02/13 15:01:00 Failure: https://stackoverflow.com was unreachable after 3 attempts
+2026/02/13 15:01:00 Failure: https://leetcode.com was unreachable after 3 attempts
+2026/02/13 15:01:14 Failure: https://chatengine.io was unreachable after 3 attempts
+2026/02/13 15:01:14 Results saved to results.json and summary.txt
+2026/02/13 15:01:14 Session ended

@@ -1,0 +1,82 @@
+{
+  "results": {
+    "https://github.com": {
+      "title": "GitHub · Change is constant. GitHub keeps you ahead. · GitHub",
+      "h1": "Search code, repositories, users, issues, pull requests...",
+      "all_sub_headers": [
+        "Navigation Menu",
+        "Search code, repositories, users, issues, pull requests...",
+        "Provide feedback",
+        "Saved searches",
+        "Use saved searches to filter your results more quickly",
+        "The future of building happens together",
+        "GitHub features",
+        "GitHub customers",
+        "Accelerate your entire workflow",
+        "Built-in application security where found means fixed",
+        "Work together, achieve more",
+        "From startups to enterprises, GitHub scales with teams of any size in any industry.",
+        "Millions of developers and businesses call GitHub home",
+        "Site-wide Links"
+      ],
+      "description": "Join the world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity."
+    },
+    "https://golang.org": {
+      "title": "The Go Programming Language",
+      "h1": "Build simple, secure, scalable systems with Go",
+      "all_sub_headers": [
+        "Build simple, secure, scalable systems with Go",
+        "Companies using Go",
+        "Try Go",
+        "What’s possible with Go",
+        "Get started with Go"
+      ],
+      "description": "Go is an open source programming language that makes it simple to build secure, scalable systems."
+    },
+    "https://google.com": {
+      "title": "Google",
+      "h1": "",
+      "all_sub_headers": [
+        "Account Options"
+      ],
+      "description": ""
+    },
+    "https://learn2earn.ng": {
+      "title": "Learn2Earn - Learn to Code, Earn While Learning",
+      "h1": "Become an AI-NativeFull-Stack Developer",
+      "all_sub_headers": [
+        "Become an AI-NativeFull-Stack Developer",
+        "Our partners",
+        "Our Program at a Glance",
+        "The Journey: From Potential to AI Engineer",
+        "Our Campuses",
+        "Life at Learn2Earn",
+        "Frequently asked questions",
+        "Powered by 01Edu",
+        "Ready to Start Your Journey?"
+      ],
+      "description": "Learn2Earn is a revolutionary platform where you learn to code and earn while learning. Join our community of learners and start your tech journey today."
+    },
+    "https://www.github.com/EmeditWeb": {
+      "title": "EmeditWeb (Emmanuel Itighise ) · GitHub",
+      "h1": "Search code, repositories, users, issues, pull requests...",
+      "all_sub_headers": [
+        "Navigation Menu",
+        "Search code, repositories, users, issues, pull requests...",
+        "Provide feedback",
+        "Saved searches",
+        "Use saved searches to filter your results more quickly",
+        "Emmanuel Itighise \n        \n        \n          EmeditWeb",
+        "Achievements",
+        "Achievements",
+        "Highlights",
+        "Block or report EmeditWeb",
+        "Hey there, I'm Emmanuel Itighise!",
+        "Popular repositories\n    \n  \n    \n    \n    Loading",
+        "Footer"
+      ],
+      "description": "🙌 Hi, I'm Emmanuel Itighise. Welcome to my space . EmeditWeb has 31 repositories available. Follow their code on GitHub."
+    }
+  },
+  "total_count": 5
+}
